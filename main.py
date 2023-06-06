@@ -2,8 +2,7 @@
 
 # Press Shift+F10 to execute it or replace it with your code.git
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/]
-
+ofer =8
 
 def foo():
   print("ofer is king)
