@@ -4,3 +4,7 @@
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/]
 
+
+def foo():
+  print("ofer is king)
+
