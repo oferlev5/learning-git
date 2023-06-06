@@ -9,3 +9,8 @@ def foo():
   ofer = 5
   bla = ofer
   p = 5
+  
+  
+ 
+def po():
+  print("rrrr")
