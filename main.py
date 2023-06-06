@@ -6,4 +6,6 @@ mom =8
 
 def foo():
   print("ofer is king")
-
+  ofer = 5
+  bla = ofer
+  p = 5
