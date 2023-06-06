@@ -10,7 +10,7 @@ def foo():
   print("ofer is king")
   ofer = 5
   bla = ofer
-  p = 5
+  p = 4
   
   
  
