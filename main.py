@@ -6,5 +6,5 @@
 
 
 def foo():
-  print("ofer is king)
+  print("ofer is king")
 
